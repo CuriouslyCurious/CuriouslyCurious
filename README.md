@@ -1,5 +1,6 @@
-# Curious
-Rust zealot, Linux minimalist and has too many projects to work on.
-
-Other places you can find me:
+# curious
+* Rust zealot 
+* Linux *minimalist*
+* has too many projects to work on...
+## Other Places
 * [sr.ht](git.sr.ht/~curious) - the superior git
